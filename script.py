@@ -1,2 +1,2 @@
-from saludos import *
-saludar()
+from saludos import Saludo
+saludo = Saludo("Juan")
